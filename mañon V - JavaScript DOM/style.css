@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tarjeta {
+    background-color: #D0D1D3;
+    width: 400px;
+    height: 600px;
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#imagen {
+    width: 240px;
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+}
+
+#titulo {
+    font-weight: 500;
+    font-size: 20px;
+    padding-top: 45px;
+}
+
+#parrafo {
+    text-align: left;
+    width: 355px;
+    display: block;
+    margin: auto;
+    font-size: 14px;
+    padding-top: 30px;
+    line-height: 20px;
+}
+
+#boton {
+    background-color: red;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 10px 30px;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+
