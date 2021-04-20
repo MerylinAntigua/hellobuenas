@@ -9,5 +9,5 @@ if (segundo != 0)
 }
 else if(segundo == 0)
 {
-    document.writeln("No se peude dividir entre 0");
+    document.writeln("No se puede dividir entre 0");
 }
