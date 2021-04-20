@@ -2,7 +2,7 @@ let primeroo1 = prompt("primer numero");
 parseInt(primeroo1)
 let segundoo2 = prompt("segundo numero");
 parseInt(segundoo2)
-let terceroo3 = prompt("tercer numero")
+let terceroo3 = prompt("tercer numero");
 parseInt(terceroo3)
 if((primeroo1 == segundoo2) && (segundoo2 == terceroo3))
 {
